@@ -7,6 +7,8 @@ sudo cp bulwark-2.0.0.0/bin/bulwark-tx /usr/bin/
 
 bulwarkd
 
+bulwark-cli stop
+
 nano /home/.bulwark/bulwark.conf
 
 bulwarkd
